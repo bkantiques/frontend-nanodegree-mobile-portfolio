@@ -2,9 +2,11 @@
 
 ## Setting up
 
-In console, clone repository and intall node modules with `npm install`.
+In console, clone repository from https://github.com/bkantiques/frontend-nanodegree-mobile-portfolio and intall
+node modules with `npm install`.
 
-To get page online to use pagespeed, use `python -m http.server 8080` then `ngrok http 8080`.
+To get page online to use pagespeed, use `python -m http.server 8080` then `ngrok http 8080`. Sources are in src
+folder, production versions are in dist folder.
 
 Use `grunt images` to optimize images from index.html. Use `grunt uglify` to minify javascript. Use `grunt cssmin`
 to minify css and `grunt htmlmin` to minify html.
