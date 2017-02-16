@@ -2,7 +2,7 @@
 
 ## Setting up
 
-In console, clone repository from https://github.com/bkantiques/frontend-nanodegree-mobile-portfolio and intall
+In console, clone repository from https://github.com/jasonreed7/frontend-nanodegree-mobile-portfolio and intall
 node modules with `npm install`.
 
 To get page online to use pagespeed, use `python -m http.server 8080` then `ngrok http 8080`. Sources are in src
